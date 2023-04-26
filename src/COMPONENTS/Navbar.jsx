@@ -17,7 +17,7 @@ const Navbar = () => {
    
     <header className='bg-[#7DD3FC] p-2  text-[#2A2F4F]   font-medium'>
     <div className='container flex justify-between items-center mx-auto max-w-[1140px] h-14'>
-        <h3 className='text-xl text-rose-700 md:text-2xl'>React.</h3>
+        <h3 className='text-xl text-[#F1F6F9] md:text-2xl'>React.</h3>
 
         <nav className='hidden md:flex'>
          <NavLink className={'mr-4'} to={'/'}>Home</NavLink>
